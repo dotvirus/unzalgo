@@ -29,8 +29,7 @@
 	"license": "GPL-3.0",
 	"main": "dist/index.js",
 	"module": "src/index.js",
-	"name": "unzalgo",
-	"repository": "kdex/unzalgo",
+	"name": "@dotvirus/unzalgo",
 	"scripts": {
 		"build": "babel src --out-dir dist",
 		"check-commit": "npm test && npm run lint",
