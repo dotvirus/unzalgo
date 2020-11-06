@@ -25,6 +25,7 @@
 			"^.+\\.js$": "babel-jest"
 		}
 	},
+	"types": "index.d.ts",
 	"license": "GPL-3.0",
 	"main": "dist/index.js",
 	"module": "src/index.js",
